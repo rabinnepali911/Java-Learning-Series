@@ -2,7 +2,7 @@
 Date : 2083/05/20.<br>
 I am Rabin Nepali. <br>
 The student of BIT.<br>
-Currently, I began to learn Java from scratch.<br>
+Recently, I began to learn Java from scratch.<br>
 I am currently watching Bro Code youtube channel - java full Course free(Which i believe will provide me a fundamental and some advance concepts About Java).<br>
 What i learn today,<br>
 -Basic introduction to Java.<br>
