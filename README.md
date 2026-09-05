@@ -10,6 +10,6 @@ What i learn today,<br>
 -Learn about the highlights of the course.<br>
 -Write my first program(print hello world! into the terminal/console).<br>
 -Setup the environment like - Zoom in/out(source code panel) , console font and color setup . <br>
-- Learn a shortcut sout -> System.out.println();<br>
-- Learn about Variables(primitive ,references) and to print those variable on the console panel including the template literal.<br>
+-Learn a shortcut sout -> System.out.println();<br>
+-Learn about Variables(primitive ,references) and to print those variable on the console panel including the template literal.<br>
 
