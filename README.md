@@ -13,9 +13,9 @@ What i learn today,<br>
 -Learn a shortcut sout -> System.out.println();<br>
 -Learn about Variables(primitive ,references) and to print those variable on the console panel including the template literal.<br>
 
-- [ ] Java Introduction
-- [ ] Install JDK
-- [ ] Install IntelliJ IDEA
-- [ ] Hello World
-- [ ] Variables
-- [ ] Data Types
+- [x ] Java Introduction
+- [x ] Install JDK
+- [x ] Install IntelliJ IDEA
+- [x ] Hello World
+- [x ] Variables
+- [x ] Data Types
